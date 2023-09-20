@@ -1,5 +1,5 @@
-### Olá, que bom ver você por aqui! 👋
-### Sou Valdemar Neto, estudante de Engenharia Mecatrônica e entusiasta de tecnologia.💻🦾
+## Olá, que bom ver você por aqui! 👋
+## Sou Valdemar Neto, estudante de Engenharia Mecatrônica e entusiasta de tecnologia.💻🦾
 
 <br>
 
@@ -9,7 +9,7 @@
 ![Neto GitHub stats](https://github-readme-stats.vercel.app/api?username=Valdemar-Neto&show_icons=true&theme=merko)
 
 
-### Essas são as tecnologias que utilizo no meu dia, tanto para estudo quanto para implementação de ideias 💡
+## Essas são as tecnologias que utilizo no meu dia, tanto para estudo quanto para implementação de ideias 💡
 
 
 <div style = "display: inline-block"><br>
@@ -30,5 +30,4 @@
 <img align = "center" alt ="html5" src = "https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img align = "center" alt ="html5" src = "https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 <img align = "center" alt ="html5" src = "https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
-
 </div>
