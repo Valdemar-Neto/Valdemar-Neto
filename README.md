@@ -3,8 +3,7 @@
 
 <br>
 
-
-![Neto GitHub stats](https://github-readme-stats.vercel.app/api?username=Valdemar-Neto&show_icons=true&theme=merko)
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Valdemar-Neto&show_icons=true&theme=merko)
 
 
 ## Essas são as tecnologias que utilizo no meu dia, tanto para estudo quanto para implementação de ideias 💡
